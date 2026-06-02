@@ -1,7 +1,8 @@
 # EcoPack---Sustainable-BI-Solution
 ### Business Intelligence and Analytics Systems - Final Project
 
-## **                              Client Background**
+## <p align="center"> Client Background </p>
+
 
 The global packaging industry, valued at over $1 trillion in 2023, is under pressure due to its role in plastic pollution, with plastic packaging alone accounting for 46% of global plastic waste (UNEP, 2021). With more than 141 million tonnes of plastic packaging waste generated annually, governments and consumers are demanding urgent action (OECD, 2022).
 
