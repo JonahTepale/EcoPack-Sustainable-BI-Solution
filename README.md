@@ -266,7 +266,7 @@ Beyond material types, we can assess the performance of a specific partner. Filt
 This turns a general sustainability goal into a specific, data-driven conversation with a partner.
 
 ## **Live Dashboard**
-https://public.tableau.com/views/EcoPack_Dashboard_17769771575600/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/EcoPack_Analysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## **📌 Author**
 Jonatan Tepale
