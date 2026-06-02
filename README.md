@@ -1,5 +1,4 @@
 # EcoPack---Sustainable-BI-Solution
-### Business Intelligence and Analytics Systems - Final Project
 
 ## <p align="center"> Client Background </p>
 
