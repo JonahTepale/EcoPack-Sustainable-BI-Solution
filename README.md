@@ -97,6 +97,11 @@ The dataset used in this project is synthetically generated based on extensive r
 #### **Conceptual Fact and Dimension Fields**
 Although the current dataset is a single table, we can logically separate the fields into star schema with one fact table and several dimension tables:
 
+<img width="755" height="481" alt="Screenshot 2026-06-03 at 4 03 14 PM" src="https://github.com/user-attachments/assets/11654b15-1a4d-48c0-a5b8-a2819b40d2e3" />
+
+
+
+
 #### **3.1 Fact Table**
 **Packaging_Fact**
 | Column Name	 | Description | 
