@@ -15,7 +15,7 @@ EcoPackaging is a data-driven platform designed to help companies make informed,
 - [⚡Current Situation and Opportunity](#-current-situation-and-opportunity-statement)
 - [🧱 Data Architecture & Flow](#-data-architecture--flow)
   - [🔄 Data Lifecycle](#-data-lifecycle)
-- [📊 Dashboard Descriptions & Insights](#-dashboard-descriptions--insights)
+- [📊 Dashboard Descriptions & Analysis](#-dashboard-descriptions--analysis)
   - [🔍 Dashboard](#-dashboard)
   - [🎛 Interactive Filters and Control](#-interactive-filters-and-control)
   - [📌 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
@@ -102,7 +102,7 @@ Although the current dataset is a single table, we can logically separate the fi
 <img width="755" height="481" alt="Screenshot 2026-06-03 at 4 03 14 PM" src="https://github.com/user-attachments/assets/11654b15-1a4d-48c0-a5b8-a2819b40d2e3" />
 
 
-## **📊 Dashboard Descriptions & Insights**
+## **📊 Dashboard Descriptions & Analysis**
 
 The EcoPack dashboard was designed to provide business stakeholders and sustainability teams with rich, actionable insights. It allows users to make informed decisions about packaging strategies, reduce environmental impact, and optimize supplier choices. Here's a detailed breakdown of each component:
 
