@@ -97,56 +97,10 @@ The dataset used in this project is synthetically generated based on extensive r
 #### **Conceptual Fact and Dimension Fields**
 Although the current dataset is a single table, we can logically separate the fields into star schema with one fact table and several dimension tables:
 
+#### **3.1 Fact Table**
+
 <img width="755" height="481" alt="Screenshot 2026-06-03 at 4 03 14 PM" src="https://github.com/user-attachments/assets/11654b15-1a4d-48c0-a5b8-a2819b40d2e3" />
 
-
-
-
-#### **3.1 Fact Table**
-**Packaging_Fact**
-| Column Name	 | Description | 
-|:-----------|:------------:|
-| product_id | Foreign Key → Product_Dim |
-| supplier_id | Foreign Key → Supplier_Dim |
-| material | Foreign Key → Material_Dim |
-| record_date | Foreign Key → Date_Dim |
-| material_weight_kg | Total weight of material used |
-| packaging_cost_usd | Cost of packaging |
-| recyclable_pct | Percent recyclable |
-| carbon_footprint_kg | Environmental impact |
-| cost_savings_usd | Cost savings from switching materials |
-
-#### **3.2 Dimension**
-**Product_Dim**
-
-| Column Name	 | Description | 
-|:-----------|:------------:|
-| product_id | Unique ID for each SKU |
-| product_name | Name of the product |
-
-**Supplier_Dim**
-
-| Column Name	 | Description | 
-|:-----------|:------------:|
-|supplier_id	| Unique ID for supplier |
-| supplier_name	| Supplier’s name |
-| supplier_esg_score	| Environmental/Social score |
-| epr_compliant	| Y/N regulatory compliance status |
-
-**Material_Dim**
-
-| Column Name	 | Description | 
-|:-----------|:------------:|
-| material	| Type of packaging material |
-| material_type |	Classification (Plastic, Compostable, etc.) |
-
-**Date_Dim**
-
-| Column Name	 | Description | 
-|:-----------|:------------:|
-|record_date	| Actual date of packaging record |
-| month	| Derived month |
-| year	| Derived year |
 
 ## **📊 Dashboard Descriptions & Insights**
 
