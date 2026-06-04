@@ -14,17 +14,17 @@ EcoPackaging is a data-driven platform designed to help companies make informed,
 - [Business Objective](#business-objective)
 - [Current Situation and Opportunity](#current-situation-and-opportunity-statement)
 - [Data Architecture & Flow](#data-architecture--flow)
-  - [Data Lifecycle](#-data-lifecycle)
-- [Dashboard Descriptions & Analysis](#-dashboard-descriptions--analysis)
-  - [Dashboard](#-dashboard)
-  - [🎛 Interactive Filters and Control](#-interactive-filters-and-control)
-  - [📌 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
-  - [💰 Packaging Cost by Product](#-packaging-cost-by-product)
-  - [✅ EPR Compliance by Material Type](#-epr-compliance-by-material-type)
-  - [🏆 Top Sustainable Supplier by ESG Score](#-top-sustainable-supplier-by-esg-score)
-  - [🌫 Emissions by Material Type](#-emissions-by-material-type)
-  - [📈 Material Usage & Sustainability Performance](#-material-usage--sustainability-performance)
-- [🧑‍💻 Dashboard Insights](#dashboard-insights)
+  - [Data Lifecycle](#data-lifecycle)
+- [Dashboard Descriptions & Analysis](#dashboard-descriptions--analysis)
+  - [Dashboard](#dashboard)
+  - [Interactive Filters and Control](#interactive-filters-and-control)
+  - [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+  - [Packaging Cost by Product](#packaging-cost-by-product)
+  - [EPR Compliance by Material Type](#epr-compliance-by-material-type)
+  - [Top Sustainable Supplier by ESG Score](#top-sustainable-supplier-by-esg-score)
+  - [Emissions by Material Type](#emissions-by-material-type)
+  - [Material Usage & Sustainability Performance](#material-usage--sustainability-performance)
+- [Dashboard Insights](#dashboard-insights)
   - [Insight 1: The Plastic Dilemma](#insight-1-the-plastic-dilemma---low-cost-high-environmental-price)
   - [Insight 2: The Compostable vs. Recyclable Trade-off](#insight-2-the-trade-off-of-compostable--recyclable-filters)
   - [Insight 3: Drilling Down to Supplier Performance](#insight-3-drilling-down-to-supplier-performance)
@@ -118,7 +118,7 @@ This dashboards in short helps by:
 - Facilitates proactive compliance with EPR/ESG regulations.
 - Supports strategic decision-making through scenario comparisons.
 
-## **🎛 Interactive Filters and Control**
+## **Interactive Filters and Control**
 <img width="1206" height="293" alt="image" src="https://github.com/user-attachments/assets/3a528f2f-5720-4e97-aa04-4567e3fc0140" />
 
 ### **Insights**
@@ -132,7 +132,7 @@ One of the key features of this dashboard is that it is completely interactive a
       
 - **Action Filters:** In addition to global controls, the dashboard uses action filters to support interaction across charts. Clicking on a data point in any chart (e.g. clicking 'Plastic' in the Emissions by Material Type, or clicking 'P14' in the Packaging Cost by Product) will instantly filter all other visualizations. This powerful aspect of the dashboard enables the user to isolate a specific product, material, or supplier and instantly see how it is performing across all other metrics in the dashboard, from ESG scores to monthly usage trends.
 
-## **📌 Key Performance Indicators (KPIs)**
+## **Key Performance Indicators (KPIs)**
 These cards provide an at a glance summary of the most critical metrics for the selected period.
 <img width="2070" height="250" alt="image" src="https://github.com/user-attachments/assets/ae540545-1b18-4d91-9f9e-3761a24faf6b" />
 
@@ -144,19 +144,19 @@ These cards provide an at a glance summary of the most critical metrics for the 
 
 These KPIs serve as quick-glance indicators of overall operational and environmental performance.
 
-## **💰 Packaging Cost by Product**
+## **Packaging Cost by Product**
 <img width="767" height="604" alt="image" src="https://github.com/user-attachments/assets/e3506631-7904-476d-8184-8c3c133e39b5" />
 
 ### **Insights**
 The individual products (e.g., P14, P10, P8) are represented in the horizontal bar chart to rank packaging costs collectively. This allows the viewer to see what packaging costs are highest and could form the basis for a cost-reduction strategy or associated cost-optimization initiatives. Product P14 stands out as the most expensive at $10,002.88. The color scale associated with the products is consistent with the EPR_Flag, which could reflect a link between cost and compliance.
 
-## **✅ EPR Compliance by Material Type**
+## **EPR Compliance by Material Type**
 <img width="1472" height="575" alt="image" src="https://github.com/user-attachments/assets/8d2c0235-2b83-442f-8f71-8cd3cf95bc5d" />
 
 ### **Insights**
 This bar chart shows the Extended Producer Responsibility (EPR) compliance rates for each packaging material (i.e., Aluminum, Bagasse, Corrugated, Glass, HDPE, LDPE, etc.). These elements are important to consider to assess regulatory risk and determine whether the materials you are using are legal and compliant with corporate standards. Insights showed that materials like Bagasse (at 22.22%) had much lower compliance than Glass (70.8%) or Corrugated cardboard (84.09%).
 
-## **🏆 Top Sustainable Supplier by ESG Score**
+## **Top Sustainable Supplier by ESG Score**
 <img width="1024" height="455" alt="image" src="https://github.com/user-attachments/assets/d1fddefa-b60c-4ddd-a62d-279eb5ceaf95" />
 
 ### **Insights**
@@ -180,7 +180,7 @@ This dual-axis combination chart provides a time-series analysis of material usa
 This visualisation aims to showcase the relationship between material consumption and sustainability performance. Stakeholders can track how shifts in the material mix (e.g., reducing gray plastic area, increasing green recyclable area) affect the overall sustainability rate shown by the dark line. This allows for long-term pattern recognition and monitoring the impact of environmental initiatives.
 
 <a name="dashboard-insights"></a>
-## 🧑‍💻 Dashboard Insights
+##Dashboard Insights
 The true power of the EcoPack dashboard lies in its interactivity. By applying filters, an analyst can move beyond high-level summaries to uncover deep, actionable insights and answer critical business questions. The following scenarios demonstrate how the dashboard facilitates this analysis.
 
 ### **Insight 1: The Plastic Dilemma - Low Cost, High Environmental Price**
