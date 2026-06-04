@@ -9,8 +9,8 @@ Retailers and e-commerce platforms that rely heavily on plastic-heavy secondary 
 
 EcoPackaging is a data-driven platform designed to help companies make informed, sustainable packaging decisions. It uses cloud computing, AI, and lifecycle analysis to suggest cost-effective, environmentally responsible alternatives.
 
-## 📖 Table of Contents
-- [🌍 Introduction / Background](#-introduction--background)
+## Table of Contents
+- [Introduction / Background](#introduction--background)
 - [Business Objective](#business-objective)
 - [Current Situation and Opportunity](#current-situation-and-opportunity-statement)
 - [Data Architecture & Flow](#data-architecture--flow)
