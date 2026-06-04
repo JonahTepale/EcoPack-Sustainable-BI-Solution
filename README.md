@@ -13,7 +13,7 @@ EcoPackaging is a data-driven platform designed to help companies make informed,
 - [🌍 Introduction / Background](#-introduction--background)
 - [🎯 Business Objective](#-business-objective)
 - [⚡Current Situation and Opportunity](#-current-situation-and-opportunity-statement)
-- [Data Architecture & Flow](#-data-architecture--flow)
+- [Data Architecture & Flow](#data-architecture--flow)
   - [🔄 Data Lifecycle](#-data-lifecycle)
 - [📊 Dashboard Descriptions & Analysis](#-dashboard-descriptions--analysis)
   - [🔍 Dashboard](#-dashboard)
