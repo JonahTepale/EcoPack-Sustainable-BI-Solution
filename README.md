@@ -11,12 +11,12 @@ EcoPackaging is a data-driven platform designed to help companies make informed,
 
 ## 📖 Table of Contents
 - [🌍 Introduction / Background](#-introduction--background)
-- [🎯 Business Objective](#-business-objective)
-- [⚡Current Situation and Opportunity](#-current-situation-and-opportunity-statement)
+- [Business Objective](#business-objective)
+- [Current Situation and Opportunity](#current-situation-and-opportunity-statement)
 - [Data Architecture & Flow](#data-architecture--flow)
-  - [🔄 Data Lifecycle](#-data-lifecycle)
-- [📊 Dashboard Descriptions & Analysis](#-dashboard-descriptions--analysis)
-  - [🔍 Dashboard](#-dashboard)
+  - [Data Lifecycle](#-data-lifecycle)
+- [Dashboard Descriptions & Analysis](#-dashboard-descriptions--analysis)
+  - [Dashboard](#-dashboard)
   - [🎛 Interactive Filters and Control](#-interactive-filters-and-control)
   - [📌 Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
   - [💰 Packaging Cost by Product](#-packaging-cost-by-product)
@@ -31,7 +31,7 @@ EcoPackaging is a data-driven platform designed to help companies make informed,
 - [🚀 Live Dashboard](#live-dashboard)
 - [✍️ Author](#-author)
 
-## **🎯 Business Objective**
+## **Business Objective**
 
 EcoPack empowers retailers and consumer brands to:
 
@@ -48,7 +48,7 @@ EcoPack empowers retailers and consumer brands to:
 - Measurable progress toward corporate sustainability goals.
 - EcoPack transforms packaging into a strategic differentiator that benefits both business and the planet.
 
-## **⚡ Current Situation and Opportunity Statement**
+## **Current Situation and Opportunity Statement**
 
 Most retailers and e-commerce firms currently lack a data-driven system to evaluate the sustainability and efficiency of their packaging. They depend on manual, fragmented, or supplier-dependent insights, which fail to reflect the environmental impact accurately.
 
@@ -66,7 +66,7 @@ Data Creation → Preprocessing & Cleaning → Data Modeling (Star Schema) → V
 
 This simulated flow reflects how a real-world pipeline would behave using structured business packaging data.
 
-## **🔄 Data Lifecycle**
+## **Data Lifecycle**
 
 ### **1. Data Creation**
 
@@ -102,11 +102,11 @@ Although the current dataset is a single table, we can logically separate the fi
 <img width="755" height="481" alt="Screenshot 2026-06-03 at 4 03 14 PM" src="https://github.com/user-attachments/assets/11654b15-1a4d-48c0-a5b8-a2819b40d2e3" />
 
 
-## **📊 Dashboard Descriptions & Analysis**
+## **Dashboard Descriptions & Analysis**
 
 The EcoPack dashboard was designed to provide business stakeholders and sustainability teams with rich, actionable insights. It allows users to make informed decisions about packaging strategies, reduce environmental impact, and optimize supplier choices. Here's a detailed breakdown of each component:
 
-## **🔍 Dashboard**
+## **Dashboard**
 <img width="3299" height="1845" alt="image" src="https://github.com/user-attachments/assets/75c8c258-2fc4-4f4d-a976-6759bf32b8d5" />
 
 ### **Insights**
