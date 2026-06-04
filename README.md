@@ -28,8 +28,8 @@ EcoPackaging is a data-driven platform designed to help companies make informed,
   - [Insight 1: The Plastic Dilemma](#insight-1-the-plastic-dilemma---low-cost-high-environmental-price)
   - [Insight 2: The Compostable vs. Recyclable Trade-off](#insight-2-the-trade-off-of-compostable--recyclable-filters)
   - [Insight 3: Drilling Down to Supplier Performance](#insight-3-drilling-down-to-supplier-performance)
-- [🚀 Live Dashboard](#live-dashboard)
-- [✍️ Author](#-author)
+- [Live Dashboard](#live-dashboard)
+- [Author](#author)
 
 ## **Business Objective**
 
@@ -163,13 +163,13 @@ This bar chart shows the Extended Producer Responsibility (EPR) compliance rates
 This table shows the ranking of suppliers based on their Environmental, Social, and Governance (ESG) score. It offers a valuable view of the sustainability outcome of the supply chain. It will highlight top performers like GreenPlast (28,566) and RecycleWorks (20,567) to help in sourcing the right supplier and developing partnership with environmentally friendly suppliers.
 We can use this graph to support vendor negotiations and select them based on the sustainability values.
 
-## **🌫 Emissions by Material Type**
+## **Emissions by Material Type**
 <img width="1026" height="961" alt="image" src="https://github.com/user-attachments/assets/09b16a85-ce8d-49b9-87b9-f93836197ae1" />
 
 ### **Insights**
 The bar chart is relatively simple but effective and is a good breakdown of total emissions by broad material categories: Compostable, Plastic, and Recyclable. The chart indicates that Plastic is the highest contributing category at 1,045.7 units of emissions in this view, and therefore should be prioritized for reduction.
 
-## **📈 Material Usage & Sustainability Performance**
+## **Material Usage & Sustainability Performance**
 <img width="2260" height="811" alt="image" src="https://github.com/user-attachments/assets/58c5b177-f30e-4ae1-8381-1002dac12b21" />
 
 ### **Insights**
@@ -228,7 +228,7 @@ This turns a general sustainability goal into a specific, data-driven conversati
 ## **Live Dashboard**
 https://public.tableau.com/views/EcoPack_Analysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## **📌 Author**
+## **Author**
 Jonatan Tepale
 
 
